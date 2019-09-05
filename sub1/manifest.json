@@ -1,0 +1,16 @@
+{
+    "name": "Curiculum Vitae Mei Rusfandi",
+    "short_name": "CV Mei",
+    "description": "Website Profile Mei Rusfandi",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#c90902",
+    "theme_color": "#c90902",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
